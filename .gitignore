@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# RAGProbe working dir (indexes, generated questions, run cache)
+.ragprobe/
+
+# Local evaluation / experiment outputs
+reports/
+baseline.json
+*_baseline.json
+*_topk*.json
+run_*.json
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model cache
+.cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Sample RAG test harness (local dev only, not part of the published package)
+sample_rag/
+
+# Agent / internal build notes (not shipped)
+CLAUDE.md

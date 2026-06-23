@@ -1,0 +1,100 @@
+{"id": "chunk_001", "text": "The Free plan includes up to 3 projects and community support.", "metadata": {"source": "pricing.md", "page": 1}}
+{"id": "chunk_002", "text": "The Pro plan costs $50 per user per month billed monthly.", "metadata": {"source": "pricing.md", "page": 2}}
+{"id": "chunk_003", "text": "The Pro plan costs $40 per user per month when billed annually.", "metadata": {"source": "pricing.md", "page": 3}}
+{"id": "chunk_004", "text": "The Enterprise plan costs $120 per user per month and includes priority support.", "metadata": {"source": "pricing.md", "page": 4}}
+{"id": "chunk_005", "text": "Enterprise customers receive a 20% discount on annual commitments.", "metadata": {"source": "pricing.md", "page": 5}}
+{"id": "chunk_006", "text": "Volume discounts begin at 50 seats and scale with seat count.", "metadata": {"source": "pricing.md", "page": 6}}
+{"id": "chunk_007", "text": "Nonprofit organizations qualify for a 30% discount with verification.", "metadata": {"source": "pricing.md", "page": 7}}
+{"id": "chunk_008", "text": "Add-on storage is billed at $0.10 per GB per month.", "metadata": {"source": "pricing.md", "page": 8}}
+{"id": "chunk_009", "text": "The Team plan sits between Pro and Enterprise at $80 per user per month.", "metadata": {"source": "pricing.md", "page": 9}}
+{"id": "chunk_010", "text": "Startups in our accelerator program get the Pro plan free for one year.", "metadata": {"source": "pricing.md", "page": 10}}
+{"id": "chunk_011", "text": "Annual billing is invoiced once per year in advance.", "metadata": {"source": "billing.md", "page": 1}}
+{"id": "chunk_012", "text": "Monthly billing is charged on the same calendar day each month.", "metadata": {"source": "billing.md", "page": 2}}
+{"id": "chunk_013", "text": "Invoices are issued in USD by default but EUR and GBP are supported.", "metadata": {"source": "billing.md", "page": 3}}
+{"id": "chunk_014", "text": "Failed payments are retried automatically for up to 7 days.", "metadata": {"source": "billing.md", "page": 4}}
+{"id": "chunk_015", "text": "Receipts are emailed to the account billing contact after each charge.", "metadata": {"source": "billing.md", "page": 5}}
+{"id": "chunk_016", "text": "You can update your payment method from the Billing settings page.", "metadata": {"source": "billing.md", "page": 6}}
+{"id": "chunk_017", "text": "Sales tax and VAT are applied based on your billing address.", "metadata": {"source": "billing.md", "page": 7}}
+{"id": "chunk_018", "text": "Refunds are processed to the original payment method within 10 business days.", "metadata": {"source": "billing.md", "page": 8}}
+{"id": "chunk_019", "text": "Unused prepaid credits roll over for 12 months before expiring.", "metadata": {"source": "billing.md", "page": 9}}
+{"id": "chunk_020", "text": "Purchase orders are accepted for Enterprise contracts over $10,000.", "metadata": {"source": "billing.md", "page": 10}}
+{"id": "chunk_021", "text": "Tier upgrades require 30 days written notice before the next billing cycle.", "metadata": {"source": "plan_changes.md", "page": 1}}
+{"id": "chunk_022", "text": "Downgrading your plan takes effect at the end of the current billing cycle.", "metadata": {"source": "plan_changes.md", "page": 2}}
+{"id": "chunk_023", "text": "Upgrading takes effect immediately and is prorated for the remainder of the period.", "metadata": {"source": "plan_changes.md", "page": 3}}
+{"id": "chunk_024", "text": "Switching from monthly to annual billing locks in the annual discount.", "metadata": {"source": "plan_changes.md", "page": 4}}
+{"id": "chunk_025", "text": "Canceling a subscription stops renewal but keeps access until period end.", "metadata": {"source": "plan_changes.md", "page": 5}}
+{"id": "chunk_026", "text": "Reactivating a canceled plan restores your previous configuration.", "metadata": {"source": "plan_changes.md", "page": 6}}
+{"id": "chunk_027", "text": "Seat additions are prorated and charged on the next invoice.", "metadata": {"source": "plan_changes.md", "page": 7}}
+{"id": "chunk_028", "text": "Removing seats reduces your charge starting the following billing cycle.", "metadata": {"source": "plan_changes.md", "page": 8}}
+{"id": "chunk_029", "text": "Plan changes are logged in the account audit history.", "metadata": {"source": "plan_changes.md", "page": 9}}
+{"id": "chunk_030", "text": "Annual plans cannot be downgraded mid-term without an early termination fee.", "metadata": {"source": "plan_changes.md", "page": 10}}
+{"id": "chunk_031", "text": "Free trials last 14 days and do not require a credit card.", "metadata": {"source": "trials.md", "page": 1}}
+{"id": "chunk_032", "text": "The trial unlocks all Pro plan features for evaluation.", "metadata": {"source": "trials.md", "page": 2}}
+{"id": "chunk_033", "text": "Trial data is retained for 30 days after the trial ends.", "metadata": {"source": "trials.md", "page": 3}}
+{"id": "chunk_034", "text": "You can extend a trial once by contacting the sales team.", "metadata": {"source": "trials.md", "page": 4}}
+{"id": "chunk_035", "text": "Converting a trial to a paid plan preserves all your projects.", "metadata": {"source": "trials.md", "page": 5}}
+{"id": "chunk_036", "text": "Trials are limited to one per organization.", "metadata": {"source": "trials.md", "page": 6}}
+{"id": "chunk_037", "text": "A trial countdown banner appears in the dashboard during the trial.", "metadata": {"source": "trials.md", "page": 7}}
+{"id": "chunk_038", "text": "If a trial expires, the workspace becomes read-only until you subscribe.", "metadata": {"source": "trials.md", "page": 8}}
+{"id": "chunk_039", "text": "Trial accounts are rate-limited to 1,000 API calls per day.", "metadata": {"source": "trials.md", "page": 9}}
+{"id": "chunk_040", "text": "Sandbox environments remain available even after a trial ends.", "metadata": {"source": "trials.md", "page": 10}}
+{"id": "chunk_041", "text": "Our support team is available Monday to Friday, 9am to 5pm EST.", "metadata": {"source": "support.md", "page": 1}}
+{"id": "chunk_042", "text": "Priority support guarantees a first response within 2 business hours.", "metadata": {"source": "support.md", "page": 2}}
+{"id": "chunk_043", "text": "Community support is provided through the public forum and Discord.", "metadata": {"source": "support.md", "page": 3}}
+{"id": "chunk_044", "text": "Enterprise customers receive a dedicated customer success manager.", "metadata": {"source": "support.md", "page": 4}}
+{"id": "chunk_045", "text": "Support tickets can be submitted from the in-app help widget.", "metadata": {"source": "support.md", "page": 5}}
+{"id": "chunk_046", "text": "Critical outages are tracked publicly on the status page.", "metadata": {"source": "support.md", "page": 6}}
+{"id": "chunk_047", "text": "Phone support is available only on Enterprise plans.", "metadata": {"source": "support.md", "page": 7}}
+{"id": "chunk_048", "text": "Documentation and tutorials are free for all users.", "metadata": {"source": "support.md", "page": 8}}
+{"id": "chunk_049", "text": "Weekend emergency support is available as a paid add-on.", "metadata": {"source": "support.md", "page": 9}}
+{"id": "chunk_050", "text": "Support response times are measured against your plan's SLA.", "metadata": {"source": "support.md", "page": 10}}
+{"id": "chunk_051", "text": "All data is encrypted in transit using TLS 1.3.", "metadata": {"source": "security.md", "page": 1}}
+{"id": "chunk_052", "text": "Data at rest is encrypted with AES-256.", "metadata": {"source": "security.md", "page": 2}}
+{"id": "chunk_053", "text": "Single sign-on via SAML is available on Enterprise plans.", "metadata": {"source": "security.md", "page": 3}}
+{"id": "chunk_054", "text": "Two-factor authentication can be enforced for all members.", "metadata": {"source": "security.md", "page": 4}}
+{"id": "chunk_055", "text": "We are SOC 2 Type II certified and audited annually.", "metadata": {"source": "security.md", "page": 5}}
+{"id": "chunk_056", "text": "Role-based access control lets admins scope member permissions.", "metadata": {"source": "security.md", "page": 6}}
+{"id": "chunk_057", "text": "Audit logs capture every administrative action for 1 year.", "metadata": {"source": "security.md", "page": 7}}
+{"id": "chunk_058", "text": "Customer data is hosted in regional data centers you select.", "metadata": {"source": "security.md", "page": 8}}
+{"id": "chunk_059", "text": "Penetration tests are conducted by third parties twice a year.", "metadata": {"source": "security.md", "page": 9}}
+{"id": "chunk_060", "text": "Data deletion requests are honored within 30 days under GDPR.", "metadata": {"source": "security.md", "page": 10}}
+{"id": "chunk_061", "text": "The REST API is versioned and the current version is v2.", "metadata": {"source": "api.md", "page": 1}}
+{"id": "chunk_062", "text": "API authentication uses bearer tokens scoped to a workspace.", "metadata": {"source": "api.md", "page": 2}}
+{"id": "chunk_063", "text": "Rate limits are 60 requests per minute on the Pro plan.", "metadata": {"source": "api.md", "page": 3}}
+{"id": "chunk_064", "text": "Webhooks deliver events for project, billing, and member changes.", "metadata": {"source": "api.md", "page": 4}}
+{"id": "chunk_065", "text": "The API returns JSON and uses standard HTTP status codes.", "metadata": {"source": "api.md", "page": 5}}
+{"id": "chunk_066", "text": "Pagination uses cursor-based tokens for large result sets.", "metadata": {"source": "api.md", "page": 6}}
+{"id": "chunk_067", "text": "SDKs are available for Python, JavaScript, and Go.", "metadata": {"source": "api.md", "page": 7}}
+{"id": "chunk_068", "text": "Deprecated endpoints are supported for 6 months after notice.", "metadata": {"source": "api.md", "page": 8}}
+{"id": "chunk_069", "text": "API keys can be rotated without downtime from the dashboard.", "metadata": {"source": "api.md", "page": 9}}
+{"id": "chunk_070", "text": "Enterprise plans can request a higher rate limit on demand.", "metadata": {"source": "api.md", "page": 10}}
+{"id": "chunk_071", "text": "New workspaces start with a guided setup checklist.", "metadata": {"source": "onboarding.md", "page": 1}}
+{"id": "chunk_072", "text": "You can invite teammates by email or shareable link.", "metadata": {"source": "onboarding.md", "page": 2}}
+{"id": "chunk_073", "text": "Importing data from CSV is supported during onboarding.", "metadata": {"source": "onboarding.md", "page": 3}}
+{"id": "chunk_074", "text": "Templates help you create your first project in minutes.", "metadata": {"source": "onboarding.md", "page": 4}}
+{"id": "chunk_075", "text": "The onboarding wizard configures notifications and integrations.", "metadata": {"source": "onboarding.md", "page": 5}}
+{"id": "chunk_076", "text": "Admins can preconfigure defaults for all new members.", "metadata": {"source": "onboarding.md", "page": 6}}
+{"id": "chunk_077", "text": "Sample projects can be loaded to explore features safely.", "metadata": {"source": "onboarding.md", "page": 7}}
+{"id": "chunk_078", "text": "Onboarding progress is saved and can be resumed anytime.", "metadata": {"source": "onboarding.md", "page": 8}}
+{"id": "chunk_079", "text": "A product tour highlights key features on first login.", "metadata": {"source": "onboarding.md", "page": 9}}
+{"id": "chunk_080", "text": "Migration assistance is included for Enterprise customers.", "metadata": {"source": "onboarding.md", "page": 10}}
+{"id": "chunk_081", "text": "Slack integration posts notifications to channels you choose.", "metadata": {"source": "integrations.md", "page": 1}}
+{"id": "chunk_082", "text": "The GitHub integration links commits to projects automatically.", "metadata": {"source": "integrations.md", "page": 2}}
+{"id": "chunk_083", "text": "Google Drive can be connected to attach files to records.", "metadata": {"source": "integrations.md", "page": 3}}
+{"id": "chunk_084", "text": "Zapier connects the product to thousands of other apps.", "metadata": {"source": "integrations.md", "page": 4}}
+{"id": "chunk_085", "text": "The Jira integration syncs issues bidirectionally.", "metadata": {"source": "integrations.md", "page": 5}}
+{"id": "chunk_086", "text": "Calendar integrations sync deadlines to Google and Outlook.", "metadata": {"source": "integrations.md", "page": 6}}
+{"id": "chunk_087", "text": "Integrations are managed from the workspace settings page.", "metadata": {"source": "integrations.md", "page": 7}}
+{"id": "chunk_088", "text": "OAuth is used to authorize all third-party integrations.", "metadata": {"source": "integrations.md", "page": 8}}
+{"id": "chunk_089", "text": "Some integrations are limited to Team and Enterprise plans.", "metadata": {"source": "integrations.md", "page": 9}}
+{"id": "chunk_090", "text": "Integration activity appears in the workspace audit log.", "metadata": {"source": "integrations.md", "page": 10}}
+{"id": "chunk_091", "text": "Projects can be exported as JSON or CSV at any time.", "metadata": {"source": "data.md", "page": 1}}
+{"id": "chunk_092", "text": "Automatic backups run nightly and are retained for 35 days.", "metadata": {"source": "data.md", "page": 2}}
+{"id": "chunk_093", "text": "You can restore a project to any backup from the last 35 days.", "metadata": {"source": "data.md", "page": 3}}
+{"id": "chunk_094", "text": "Data residency options include the US, EU, and Asia-Pacific.", "metadata": {"source": "data.md", "page": 4}}
+{"id": "chunk_095", "text": "Archived projects are excluded from active seat counts.", "metadata": {"source": "data.md", "page": 5}}
+{"id": "chunk_096", "text": "Bulk operations can update up to 1,000 records at once.", "metadata": {"source": "data.md", "page": 6}}
+{"id": "chunk_097", "text": "Deleted projects are recoverable from the trash for 30 days.", "metadata": {"source": "data.md", "page": 7}}
+{"id": "chunk_098", "text": "Custom fields support text, number, date, and select types.", "metadata": {"source": "data.md", "page": 8}}
+{"id": "chunk_099", "text": "Data import validates rows and reports errors before committing.", "metadata": {"source": "data.md", "page": 9}}
+{"id": "chunk_100", "text": "Large exports are delivered as a downloadable archive by email.", "metadata": {"source": "data.md", "page": 10}}
