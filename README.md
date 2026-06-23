@@ -13,6 +13,11 @@ RAGProbe generates them from your chunk graph. **Zero test authorship required.*
 
 ---
 
+it gives a report of questions and wethere your system passes or not check image below,
+
+<img width="1852" height="1260" alt="Screenshot 2026-06-23 115536" src="https://github.com/user-attachments/assets/e06f0d2d-e1e4-4383-9257-d2989fd1e7a6" />
+
+
 ## Installation
 
 ```bash
