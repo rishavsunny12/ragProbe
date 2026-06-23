@@ -13,6 +13,17 @@ RAGProbe generates them from your chunk graph. **Zero test authorship required.*
 
 ---
 
+## Failure modes
+
+| Mode          | What it targets                                                            |
+|---------------|---------------------------------------------------------------------------|
+| `multi_hop`   | Distant chunk pairs that must be combined to answer                        |
+| `buried_fact` | A fact surrounded by many near-duplicate "distractor" chunks              |
+| `distractor`  | Moderately similar chunk pairs where one is a tempting wrong answer        |
+| `near_miss`   | High-betweenness "chokepoint" chunks that sit at retrieval rank boundaries |
+
+---
+
 it gives a report of questions and wethere your system passes or not check image below,
 
 <img width="1852" height="1260" alt="Screenshot 2026-06-23 115536" src="https://github.com/user-attachments/assets/e06f0d2d-e1e4-4383-9257-d2989fd1e7a6" />
@@ -162,16 +173,6 @@ Chunks are provided as JSONL (one chunk per line):
 
 ---
 
-## Failure modes
-
-| Mode          | What it targets                                                            |
-|---------------|---------------------------------------------------------------------------|
-| `multi_hop`   | Distant chunk pairs that must be combined to answer                        |
-| `buried_fact` | A fact surrounded by many near-duplicate "distractor" chunks              |
-| `distractor`  | Moderately similar chunk pairs where one is a tempting wrong answer        |
-| `near_miss`   | High-betweenness "chokepoint" chunks that sit at retrieval rank boundaries |
-
----
 
 ## Development
 
